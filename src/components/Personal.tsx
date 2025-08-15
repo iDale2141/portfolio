@@ -101,6 +101,7 @@ export default function Personal() {
 			 	<Link 
 			 		href="https://drive.google.com/file/d/1spp1pGnoNipIXH8uBvP0SaVWZ4AfryAm/view?usp=sharing"
 			 		target="_blank"
+			 		title='Click to view my resume.'
 		 		>
 			 	<Image
 			 		className="mx-auto mb-5 animate-pulse"

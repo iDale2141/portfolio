@@ -25,8 +25,16 @@ export default function Header(){
 		        		Skills & Work Experiences
 		        	</Link>
 		        </li>
-		        <li className="cursor-pointer">Sample Pages</li>
-		        <li className="cursor-pointer">Contact</li>
+		        <li className="cursor-pointer">
+		        	<Link href="/sample-pages" className={pathname === '/sample-pages' ? 'font-bold !text-[18px]' : ''}>
+		        		Sample Pages
+		        	</Link>
+		        </li>
+		        <li className="cursor-pointer">
+		        	<Link href="/contact" className={pathname === '/contact' ? 'font-bold !text-[18px]' : ''}>
+		        		Contact
+		        	</Link>
+	        	</li>
 		      </ul>
 		    </div>
 		  </div>

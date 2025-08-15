@@ -34,16 +34,16 @@ export default function Skills() {
     },
     {
       year: '2016-2020',
-      title: 'Junior to Senior Developer',
-      description: `This is where the real journey began. After I graduated, the company where I had my internship offered me a job. I started as a Junior Web Developer with a salary of $150/month (this is the reality in my country). I worked there until I was promoted to Senior Web Developer, earning $250/month. During my time there, I developed several web applications, including a Cashiering System, School Management System, Human Resource Management System, Clinic Information System, and more. Projects were built using <b>CodeIgniter/Laravel, Bootstrap/jQuery, and MySQL</b>, depending on who my Team Leader was.`,
+      title: 'Junior to Senior Web Developer',
+      description: `This is where the real journey began. After I graduated, the company where I had my internship offered me a job. I started as a Junior Web Developer with a salary of $150/month (this is the reality in my country). I worked there until I was promoted to Senior Web Developer, earning $250/month. During my time there, I developed several web applications, including a Cashiering System, School Management System, Human Resource Management System, Clinic Information System, and more. Projects were built using <b>CodeIgniter/Laravel, Bootstrap, VueJS/jQuery, and MySQL</b>, depending on who my Team Leader was.`,
       image: '/EngtechLogos.png',
       imgWidth: '350px',
       icon: <FaLaptop className="w-6 h-6" />
     },
     {
-      year: '2020-2025',
+      year: '2020-2024',
       title: 'Police Officer',
-      description: `This was a turning point in my life. When my girlfriend became pregnant, I knew my salary couldn’t sustain a family. Despite having no military background, I applied—and was accepted. For two years, I served in the administrative office as both IT specialist and secretary under a high-ranking officer, <b>gathering critical data, preparing official documents, and producing reports</b> for higher command. The role demanded precision, confidentiality, and strict adherence to deadlines—skills I still carry today.`,
+      description: `This was a turning point in my life. When my girlfriend became pregnant, I knew my salary couldn’t sustain a family. Despite having no military background, I applied—and was accepted. For the last two years, I served in an administrative office as both IT specialist and secretary under a high-ranking officer, <b>gathering critical data, preparing official documents, and producing reports</b> for higher command. The role demanded precision, confidentiality, and strict adherence to deadlines—skills I still carry today.`,
       image: '/pnp.png',
       imgWidth: '350px',
       icon: <GiPoliceBadge className="w-6 h-6 text-white" />
@@ -51,7 +51,7 @@ export default function Skills() {
     {
       year: '2023-2025',
       title: 'Front-end Developer',
-      description: `This is the current stage of my life. I left the service to return to my true passion—the IT world. With the help of a former colleague from my first job, I was hired as a part-time Front-end Developer. I started by building landing pages in Shopify Liquid and funnels in CheckoutChamp, quickly progressing to working independently after a few weeks of training. Later, we transitioned to Next.js and Tailwind CSS, and I expanded my skills to include Google Tag Manager, Google Analytics, Microsoft Clarity, ShipStation, Maropost, MIDA.so, GitHub, and Vercel.`,
+      description: `This is the current stage of my life. I left the service to return to my true passion—the IT world. With the help of a former colleague from my first job, I was hired as a part-time Front-end Developer until I decided to go full-time. I started by building landing pages in Shopify Liquid and funnels in CheckoutChamp, quickly progressing to working independently after a few weeks of training. Later, we transitioned to Next.js and Tailwind CSS, and I expanded my skills to include Google Tag Manager, Google Analytics, Microsoft Clarity, ShipStation, Maropost, MIDA.so, GitHub, and Vercel.`,
       image: '/current.png',
       imgWidth: '750px',
       icon: <FaLaptop className="w-6 h-6" />
